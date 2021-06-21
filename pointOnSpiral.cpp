@@ -5,8 +5,6 @@ int main()
 {
     int x,y;
     cin>>x>>y;
-    int p=0;
-    int k=0;
     if(x==0 && y==0)
     {
         cout<<0;
